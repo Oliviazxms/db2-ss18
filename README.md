@@ -1,4 +1,4 @@
-# Übungen zur Vorlesung Datenbanksysteme II im Sommersemester 2018
+# Übungen zur Vorlesung DB 2 im Sommersemester 2018
 
 Nähere Infos zur Organisation der Übungen findet ihr
 
@@ -8,7 +8,7 @@ Nähere Infos zur Organisation der Übungen findet ihr
 - im [Handout zum Übungsbetrieb](handout-git.pdf im Forum) mit `git`
     (Aus- und Abgabe von Übungsblättern)
 
-- sowie auf der [Vorlesungswebsite](https://db.inf.uni-tuebingen.de/teaching/DatenbanksystemeIISS2018.html)
+- sowie auf der [Vorlesungswebsite](https://db.inf.uni-tuebingen.de/teaching/DB2SS2018.html)
     (allgemeine organisatorische Infos und Termine).
 
 # Angaben zum Team (bitte selbst ausfüllen)
