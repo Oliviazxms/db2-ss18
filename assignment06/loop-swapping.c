@@ -37,10 +37,10 @@ int main (int argc, char **argv)
         exit (EXIT_FAILURE);
     }
 
-    /* initialize table column-wise with random values */
-    for (c = 0; c < cols; c++)
-        for (r = 0; r < rows; r++)
-            tbl[c * rows + r] = (unsigned int) random();
+    /* initialize table row-by-row with random values */
+    for (r = 0; r < rows; r++)
+        for (c = 0; c < cols; c++)
+            tbl[r * cols + c] = (unsigned int) random();
 
     /* ---------- loop combination i. row-major ---------- */
 
